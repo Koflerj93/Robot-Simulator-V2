@@ -15,7 +15,7 @@ Open up the `index.html` file in your browser and please read **all** of the ins
 
 You will be coding only within the `index.js` file - the `movement.js` file provides you with the code to move the robot. You can peek at this code if you're curious, but it is not advised that you edit it.
 
-We've got a robot displayed in a grid. The robot is capable of moving along this grid using a function called `move` which has been provided for you. When called with a string `left`, `down`, `right`, or `up`, the `move` function will move the robot in that direction. Try it out in your console! 
+<!-- We've got a robot displayed in a grid. The robot is capable of moving along this grid using a function called `move` which has been provided for you. When called with a string `left`, `down`, `right`, or `up`, the `move` function will move the robot in that direction. Try it out in your console!  -->
 
 Example: 
 ```
@@ -24,7 +24,7 @@ move("right") // moves robot to the right
 
 ### Store the commands
 
-Your task is to add functionality to the page such that _when a user presses the arrow keys_, that direction (i.e. `left`, `down`, `right`, or `up`) is added to a list of directions on the right side of the robot's grid. We've already provided you with a `<ul>` element with an id set to `moves-container` - you just have to add `li` elements to it containing the direction that was inputted.
+<!-- Your task is to add functionality to the page such that _when a user presses the arrow keys_, that direction (i.e. `left`, `down`, `right`, or `up`) is added to a list of directions on the right side of the robot's grid. We've already provided you with a `<ul>` element with an id set to `moves-container` - you just have to add `li` elements to it containing the direction that was inputted.
 
 Example:
 
@@ -35,7 +35,7 @@ Example:
   <li>Down</li>
   <li>Right</li>
 </ul>
-```
+``` -->
 
 ![](robot_simulator_storing_moves.gif)
 
